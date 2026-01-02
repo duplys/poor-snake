@@ -1,2 +1,3 @@
-# poor-snake
-Poorly designed Snake game implementation for refactoring exercises
+# Introduction
+
+This project contains a poorly designed Snake game implementation in Python which can be used for refactoring exercises.
